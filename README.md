@@ -1,3 +1,16 @@
+# jsUML2
+## jsUML2 library mirror
+
+### original distro 
+* http://www.uco.es/~in1rosaj/tools/jsUML2/jsUML2_v004.zip
+
+### manual
+
+* http://www.uco.es/~in1rosaj/tools/jsUML2/doc/TheProgrammersGuide_003.htm
+
+# README
+
+```
 If you want to build the code, you need the following tools:
 
   -SPROCKETIZE-
@@ -26,3 +39,5 @@ Finally, execute:
 ./make.sh
 
 (C) The authors, 2011
+```
+
